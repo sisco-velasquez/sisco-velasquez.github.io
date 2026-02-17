@@ -7,7 +7,6 @@ Computer Science student at Dedan Kimathi University of Technology.
 ---
 
 ##  Key Projects
-[View Detailed Project Breakdowns →](projects)
 
 ### [Social Network API](https://github.com/sisco-velasquez/fastapi)
 * **Tech Stack:** FastAPI, SQLModel, PostgreSQL, JWT.
