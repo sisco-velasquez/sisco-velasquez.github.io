@@ -9,15 +9,15 @@ Computer Science student at Dedan Kimathi University of Technology.
 ##  Key Projects
 [View Detailed Project Breakdowns →](projects)
 
-### [Social Network API](https://github.com/sisco-velasquez/fastapi)
+### Social Network API
 * **Tech Stack:** FastAPI, SQLModel, PostgreSQL, JWT.
 * **Highlights:** Secure authentication, voting system logic, and automated Swagger documentation.
 
-### [Dafpp Supermarket App](https://github.com/sisco-velasquez/dafpp-supermarket)
+### Dafpp Supermarket App
 * **Tech Stack:** Java, Android SDK.
 * **Highlights:** Real-time order management and administrative dashboard.
 
-###[zara language compiler]
+### zara language compiler
 
 ---
 

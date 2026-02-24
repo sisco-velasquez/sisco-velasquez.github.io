@@ -30,7 +30,7 @@ title: My Projects
 ![FastAPI Swagger UI Docs](assets/database1.png)
 ## database(post table)
 ![FastAPI Swagger UI Docs](assets/database2.png)
-* **Check it out:** [GitHub Repository](https://github.com/sisco-velasquez/fastapi)
+* **Check the code out:** [GitHub Repository](https://github.com/sisco-velasquez/fastapi)
 
 ---
 
@@ -39,7 +39,7 @@ title: My Projects
 
 * **Platform:** Android (Java).
 * **Key Feature:** Admin dashboard for managing orders and user login timeout security.
-* **Check it out:** [GitHub Repository](https://github.com/sisco-velasquez/Dafpp)
+* **Check the code out:** [GitHub Repository](https://github.com/sisco-velasquez/Dafpp)
 
 ---
 
