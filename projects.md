@@ -15,17 +15,21 @@ title: My Projects
 * **Database Design:** Implemented a Many-to-Many relationship for the voting system using SQLModel.
 * **Security:** Developed JWT-based authentication and password hashing with Bcrypt.
 * **Documentation:** Integrated Swagger UI for interactive API testing.
+* **Database Design:** Implemented a Many-to-Many relationship...
+
 ## swager ui of diffrent end points
 ![FastAPI Swagger UI Docs](assets/swager1.png)
 ![FastAPI Swagger UI Docs](assets/swager2.png)
 ## get users endpoint
 ![FastAPI Swagger UI Docs](assets/swager3.png)
-##login endpoint
+## login endpoint
 ![FastAPI Swagger UI Docs](assets/login2.png)
 ![FastAPI Swagger UI Docs](assets/login1.png)
 
-
-* **Database Design:** Implemented a Many-to-Many relationship...
+## database(user table)
+![FastAPI Swagger UI Docs](assets/database1.png)
+## database(post table)
+![FastAPI Swagger UI Docs](assets/database2.png)
 * **Check it out:** [GitHub Repository](https://github.com/sisco-velasquez/fastapi)
 
 ---
