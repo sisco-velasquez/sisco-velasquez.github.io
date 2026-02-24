@@ -20,6 +20,10 @@ title: My Projects
 ![FastAPI Swagger UI Docs](assets/swager2.png)
 ## get users endpoint
 ![FastAPI Swagger UI Docs](assets/swager3.png)
+##login endpoint
+![FastAPI Swagger UI Docs](assets/login2.png)
+![FastAPI Swagger UI Docs](assets/login1.png)
+
 
 * **Database Design:** Implemented a Many-to-Many relationship...
 * **Check it out:** [GitHub Repository](https://github.com/sisco-velasquez/fastapi)
